@@ -1,0 +1,13 @@
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.exe
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.deps.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.runtimeconfig.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.runtimeconfig.dev.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\bin\Debug\netcoreapp3.1\Tarea OOP.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\Clase 9\Tarea OOP\obj\Debug\netcoreapp3.1\Tarea OOP.genruntimeconfig.cache

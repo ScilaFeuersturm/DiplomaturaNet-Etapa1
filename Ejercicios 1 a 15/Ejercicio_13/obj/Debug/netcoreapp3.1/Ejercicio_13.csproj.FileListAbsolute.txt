@@ -1,0 +1,13 @@
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.exe
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.deps.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.runtimeconfig.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.runtimeconfig.dev.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\bin\Debug\netcoreapp3.1\Ejercicio_13.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Ejercicios 1 a 15\Ejercicio_13\obj\Debug\netcoreapp3.1\Ejercicio_13.genruntimeconfig.cache
