@@ -1,0 +1,13 @@
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.exe
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.deps.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.runtimeconfig.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.runtimeconfig.dev.json
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\bin\Debug\netcoreapp3.1\Micros.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.csprojAssemblyReference.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.dll
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.pdb
+C:\Users\Casa\Desktop\Diplomatura desarrollo .NET\DiplomaturaNet-Etapa1\Otros ejercicios\Ejercicios clase 10\Micros\obj\Debug\netcoreapp3.1\Micros.genruntimeconfig.cache
